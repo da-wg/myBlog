@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on da.wg</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on da.wg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog init</title>
+      <link>http://example.org/posts/blog-init/</link>
+      <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
+      
+      <guid>http://example.org/posts/blog-init/</guid>
+      <description>Last Modified: Jan. 17 2020 9:06pm</description>
+    </item>
+    
+  </channel>
+</rss>

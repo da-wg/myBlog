@@ -2,6 +2,7 @@ baseURL: "http://example.org/"
 languageCode: "en-us"
 title: "da.wg"
 theme: "PaperMod"
+publishDir: docs
 
 params: 
     defaultTheme: light
