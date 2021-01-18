@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>da.wg</title>
-    <link>/</link>
+    <link>da-wg.github.io/myBlog/</link>
     <description>Recent content on da.wg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="da-wg.github.io/myBlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog init</title>
-      <link>/posts/blog-init/</link>
+      <link>da-wg.github.io/myBlog/posts/blog-init/</link>
       <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
       
-      <guid>/posts/blog-init/</guid>
+      <guid>da-wg.github.io/myBlog/posts/blog-init/</guid>
       <description>Last Modified: Jan. 17 2020 9:06pm</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>/archive/</link>
+      <link>da-wg.github.io/myBlog/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/archive/</guid>
+      <guid>da-wg.github.io/myBlog/archive/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/search/</link>
+      <link>da-wg.github.io/myBlog/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/search/</guid>
+      <guid>da-wg.github.io/myBlog/search/</guid>
       <description>search</description>
     </item>
     
