@@ -1,4 +1,4 @@
-baseURL: "https://da-wg.github.io/myBlog/docs/"
+baseURL: "/"
 languageCode: "en-us"
 title: "da.wg"
 theme: "PaperMod"
