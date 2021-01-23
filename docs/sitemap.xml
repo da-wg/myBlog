@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/posts/blog-init/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/posts/blog-init/</loc>
     <lastmod>2021-01-16T21:10:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/categories/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/categories/</loc>
     <lastmod>2021-01-16T21:10:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/</loc>
     <lastmod>2021-01-16T21:10:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/categories/misc/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/categories/misc/</loc>
     <lastmod>2021-01-16T21:10:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/posts/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/posts/</loc>
     <lastmod>2021-01-16T21:10:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/archive/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/archive/</loc>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/search/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/search/</loc>
   </url>
   
   <url>
-    <loc>https://da-wg.github.io/myBlog/tags/</loc>
+    <loc>https://da-wg.github.io/myBlog/docs/tags/</loc>
   </url>
   
 </urlset>
