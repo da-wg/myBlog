@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://github.com/da-wg/myBlog/"
 languageCode: "en-us"
 title: "da.wg"
 theme: "PaperMod"
@@ -22,9 +22,9 @@ params:
         imageHeight: 120 # custom size
         buttons:
             - name: Archive
-              url: "/archive"
+              url: "archive/"
             - name: Blog
-              url: "/posts/"
+              url: "posts/"
 
 
     socialIcons: # optional
@@ -35,11 +35,11 @@ menu:
     main:
         - identifier: categories
           name: categories
-          url: /categories/
+          url: "categories/"
           weight: 10
         - identifier: tags
           name: tags
-          url: /tags/
+          url: "tags/"
           weight: 20
         - identifier: example
           name: example.org
@@ -47,11 +47,11 @@ menu:
           weight: 30
         - identifier: archive
           name: archive
-          url: /archive/
+          url: "archive/"
           weight: 40
         - identifier: search
           name: search
-          url: /search/
+          url: "search/"
           weight: 50
 
 outputs:
