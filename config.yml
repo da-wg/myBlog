@@ -1,9 +1,10 @@
-baseurl: "da-wg.github.io/myBlog"
+baseURL: ""
 languageCode: "en-us"
 title: "da.wg"
 theme: "PaperMod"
 publishDir: docs
 
+relativeURLS: true
 params: 
     defaultTheme: light
     ShowShareButtons: true

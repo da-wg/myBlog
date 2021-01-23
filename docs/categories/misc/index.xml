@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>misc on da.wg</title>
-    <link>da-wg.github.io/myBlog/categories/misc/</link>
+    <link>/categories/misc/</link>
     <description>Recent content in misc on da.wg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="da-wg.github.io/myBlog/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="/categories/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog init</title>
-      <link>da-wg.github.io/myBlog/posts/blog-init/</link>
+      <link>/posts/blog-init/</link>
       <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
       
-      <guid>da-wg.github.io/myBlog/posts/blog-init/</guid>
+      <guid>/posts/blog-init/</guid>
       <description>Last Modified: Jan. 17 2020 9:06pm</description>
     </item>
     
