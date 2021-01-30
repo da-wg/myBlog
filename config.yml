@@ -4,6 +4,7 @@ title: "da.wg"
 theme: "PaperMod"
 publishDir: docs
 
+enableGitInfo: true
 relativeURLS: true
 params: 
     defaultTheme: light
