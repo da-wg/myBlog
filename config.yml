@@ -6,7 +6,10 @@ publishDir: docs
 
 enableGitInfo: true
 relativeURLS: true
+googleAnalytics: UA-186134234-1
+
 params: 
+    env: production
     defaultTheme: light
     ShowShareButtons: true
 

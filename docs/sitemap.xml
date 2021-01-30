@@ -28,16 +28,6 @@
   </url>
   
   <url>
-    <loc>/series/</loc>
-    <lastmod>2021-01-29T19:46:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/series/themes-guide/</loc>
-    <lastmod>2021-01-29T19:46:50-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/archive/</loc>
     <lastmod>2021-01-17T21:16:35-05:00</lastmod>
   </url>
@@ -45,6 +35,10 @@
   <url>
     <loc>/search/</loc>
     <lastmod>2021-01-17T21:16:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
   </url>
   
 </urlset>
