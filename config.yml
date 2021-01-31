@@ -33,7 +33,7 @@ params:
 
     socialIcons: # optional
         - name: "Twitter"
-          url: "https://twitter.com/dawgCapital"
+          url: "https://twitter.com/davidlwang"
 
 menu:
     main:
