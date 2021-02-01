@@ -1,7 +1,7 @@
 ---
 title: "CryptoCred's TA Series"
 date: 2021-01-30T20:50:20-05:00
-draft: false
+draft: true
 ---
 
 [Link to original videos](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=sharing)
@@ -32,7 +32,7 @@ Side note: lines drawn on a particular time frame are still displayed at differe
 - [Babypips Cheat Sheet](https://www.babypips.com/learn/forex/japanese-candlesticks-cheat-sheet)
 - Patterns mentioned in video: 
   - Doji (Neutral)
-![Doji](img/Doji.png)
+![Doji](1%20Candlestick/Doji.png)
   - Shooting Star (Bearish)
 ![ShootingStar](img/Shooting%20Star.png)
   - Hammar (Bullish)
@@ -46,4 +46,6 @@ Side note: lines drawn on a particular time frame are still displayed at differe
   - Tweezer Bottoms (Bullish)
 ![TweezerBottoms](img/Tweezer%20Bottoms.png)
 
-  
+---
+
+## #2: Risk Management

@@ -34,6 +34,8 @@ params:
     socialIcons: # optional
         - name: "Twitter"
           url: "https://twitter.com/davidlwang"
+        - name: "Github"
+          url: "https://github.com/da-wg/myBlog"
 
 menu:
     main:
