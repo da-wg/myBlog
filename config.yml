@@ -10,7 +10,7 @@ googleAnalytics: UA-186134234-1
 
 params: 
     env: production
-    defaultTheme: dark
+    defaultTheme: light
     ShowShareButtons: true
 
     homeInfoParams:

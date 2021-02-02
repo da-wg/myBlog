@@ -32,19 +32,19 @@ Side note: lines drawn on a particular time frame are still displayed at differe
 - [Babypips Cheat Sheet](https://www.babypips.com/learn/forex/japanese-candlesticks-cheat-sheet)
 - Patterns mentioned in video: 
   - Doji (Neutral)
-![Doji](1%20Candlestick/Doji.png)
+![Doji](/posts/cryptocred/img/1/Doji.png)
   - Shooting Star (Bearish)
-![ShootingStar](img/Shooting%20Star.png)
+![ShootingStar](/posts/cryptocred/img/1/Shooting%20Star.png)
   - Hammar (Bullish)
-![Hammar](img/Hammar.png)
+![Hammar](/posts/cryptocred/img/1/Hammar.png)
   - Bullish Engulfing (Bullish)
-![BullishEngulfing](img/Bullish%20Engulfing.png)
+![BullishEngulfing](/posts/cryptocred/img/1/Bullish%20Engulfing.png)
   - Bearish Engulfing (Bearish)
-![BearishEngulfing](img/Bearish%20Engulfing.png)
+![BearishEngulfing](/posts/cryptocred/img/1/Bearish%20Engulfing.png)
   - Tweezer Tops (Bearish)
-![TweezerTops](img/Tweezer%20Tops.png)
+![TweezerTops](/posts/cryptocred/img/1/Tweezer%20Tops.png)
   - Tweezer Bottoms (Bullish)
-![TweezerBottoms](img/Tweezer%20Bottoms.png)
+![TweezerBottoms](/posts/cryptocred/img/1/Tweezer%20Bottoms.png)
 
 ---
 
