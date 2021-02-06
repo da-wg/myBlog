@@ -1,7 +1,9 @@
 ---
 title: "CryptoCred's TA Series"
 date: 2021-01-30T20:50:20-05:00
-draft: false
+draft: true
+categories: ["trading"]
+series: ["cryptoCred", "TA"]
 ---
 
 [Link to original videos](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit?usp=sharing)

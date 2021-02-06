@@ -6,24 +6,15 @@
     <description>Recent content in Posts on da.wg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 20:50:20 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CryptoCred&#39;s TA Series</title>
-      <link>/posts/cryptocred/cryptocred/</link>
-      <pubDate>Sat, 30 Jan 2021 20:50:20 -0500</pubDate>
-      
-      <guid>/posts/cryptocred/cryptocred/</guid>
-      <description>Link to original videos
- #1: Candlestick Charts What is technical analysis:  way to make probabilistic forecasts of future price behaviour  you don&amp;rsquo;t have to be a technical trader, you can use it to look for best risk/reward long entries if you&amp;rsquo;re fundamentally bullish on an asset   can be thought of as a risk management tool  Candlestick Anatomy:  red = closing price below opening price green = closing price above opening price OHLC = Open, High, Low, Close  Side note: lines drawn on a particular time frame are still displayed at different time frames.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog init</title>
       <link>/posts/blog-init/</link>
       <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
       
       <guid>/posts/blog-init/</guid>
-      <description>Hey there and welcome to my blog! During my last online school term, I made a list of things that I wanted to learn during my coop term, when I would have a little bit of free time. Since there was a lot of overlapping topics, I wanted to document everything I learn so I could look back in the future. This blog is the result of that wish and will hopefully allow me to do that.</description>
+      <description>Hey there and welcome to my blog! Since discovering Bitcoin and crypto 9 months ago, I&amp;rsquo;ve spent all of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of:
+ the history and major dates of crypto names and what they do of majority of the Top 100 coins major areas of innovation (eg. DeFi, NFTs) Top DeFi protocols and basic understanding of their value proposition the hottest memes on crypto twitter (I personally think this is the most important)  However, I noticed that there are still various topics that I&amp;rsquo;m still confused about.</description>
     </item>
     
   </channel>
