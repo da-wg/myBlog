@@ -5,6 +5,34 @@
     <link>/series/</link>
     <description>Recent content in Series on da.wg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 20:34:27 -0500</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeFi</title>
+      <link>/series/defi/</link>
+      <pubDate>Sun, 31 Jan 2021 20:34:27 -0500</pubDate>
+      
+      <guid>/series/defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptoCred</title>
+      <link>/series/cryptocred/</link>
+      <pubDate>Sat, 30 Jan 2021 20:50:20 -0500</pubDate>
+      
+      <guid>/series/cryptocred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TA</title>
+      <link>/series/ta/</link>
+      <pubDate>Sat, 30 Jan 2021 20:50:20 -0500</pubDate>
+      
+      <guid>/series/ta/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

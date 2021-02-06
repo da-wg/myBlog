@@ -5,7 +5,7 @@ categories: ["misc"]
 series:
 draft: false
 ---
-Hey there and welcome to my blog! Since discovering Bitcoin and crypto 9 months ago, I've spent all of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of: 
+Hey there and welcome to my blog! This blog will help document my journey into crypto and trading. Since discovering Bitcoin and crypto 9 months ago, I've spent all of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of: 
 - the history and major dates of crypto
 - names and what they do of majority of the Top 100 coins  
 - major areas of innovation (eg. DeFi, NFTs)

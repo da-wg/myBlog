@@ -6,15 +6,50 @@
     <description>Recent content on da.wg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 21:10:05 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 11:40:29 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cryptoZombies [solidity]</title>
+      <link>/posts/cryptozombies/</link>
+      <pubDate>Sat, 06 Feb 2021 11:40:29 -0500</pubDate>
+      
+      <guid>/posts/cryptozombies/</guid>
+      <description>Note: I already have a little bit of programming experience so I will be relating some of the concepts to Javascript/C++ concepts. A great resource for learning Javascript is freeCodeCamp&amp;rsquo;s Javascript Algorithms and Data Structures Certification course
+Lesson 1 Solidity&amp;rsquo;s code is encapsulated in contracts.
+contract: fundamental building block of Ethereum applications - all variables and functions belong to a contract. Starting point of all your projects
+pragma solidity: version of Solidity compiler you wish to use state variables - permanently stored in contract storage</description>
+    </item>
+    
+    <item>
+      <title>DeFi</title>
+      <link>/posts/defi/</link>
+      <pubDate>Sun, 31 Jan 2021 20:34:27 -0500</pubDate>
+      
+      <guid>/posts/defi/</guid>
+      <description>Sources: Finematics
+Note: I&amp;rsquo;m already familiar with the basics of DeFi (eg. what it is, key projects, Uniswap, MetaMask) so there won&amp;rsquo;t be any notes after those things. If you wish to start at the beginning, the finematics article is a great start
+View my project specific posts:
+Lending and Borrowing: One of the most important aspects of any financial system
+money market: area of traditional finance that specializes in short term lending and borrowing</description>
+    </item>
+    
+    <item>
+      <title>CryptoCred&#39;s TA Series</title>
+      <link>/posts/cryptocred/cryptocred/</link>
+      <pubDate>Sat, 30 Jan 2021 20:50:20 -0500</pubDate>
+      
+      <guid>/posts/cryptocred/cryptocred/</guid>
+      <description>Link to original videos
+ #1: Candlestick Charts What is technical analysis:  way to make probabilistic forecasts of future price behaviour  you don&amp;rsquo;t have to be a technical trader, you can use it to look for best risk/reward long entries if you&amp;rsquo;re fundamentally bullish on an asset   can be thought of as a risk management tool  Candlestick Anatomy:  red = closing price below opening price green = closing price above opening price OHLC = Open, High, Low, Close  Side note: lines drawn on a particular time frame are still displayed at different time frames.</description>
+    </item>
+    
     <item>
       <title>blog init</title>
       <link>/posts/blog-init/</link>
       <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
       
       <guid>/posts/blog-init/</guid>
-      <description>Hey there and welcome to my blog! Since discovering Bitcoin and crypto 9 months ago, I&amp;rsquo;ve spent all of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of:
- the history and major dates of crypto names and what they do of majority of the Top 100 coins major areas of innovation (eg. DeFi, NFTs) Top DeFi protocols and basic understanding of their value proposition the hottest memes on crypto twitter (I personally think this is the most important)  However, I noticed that there are still various topics that I&amp;rsquo;m still confused about.</description>
+      <description>Hey there and welcome to my blog! This blog will help document my journey into crypto and trading. Since discovering Bitcoin and crypto 9 months ago, I&amp;rsquo;ve spent all of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of:
+ the history and major dates of crypto names and what they do of majority of the Top 100 coins major areas of innovation (eg.</description>
     </item>
     
     <item>

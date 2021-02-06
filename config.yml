@@ -4,6 +4,7 @@ title: "da.wg"
 theme: "PaperMod"
 publishDir: docs
 
+buildDrafts: true
 enableGitInfo: true
 relativeURLS: true
 googleAnalytics: UA-186134234-1
