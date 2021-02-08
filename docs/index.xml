@@ -13,10 +13,10 @@
       <pubDate>Sat, 06 Feb 2021 11:40:29 -0500</pubDate>
       
       <guid>/posts/cryptozombies/</guid>
-      <description>Note: I already have a little bit of programming experience so I will be relating some of the concepts to Javascript/C++ concepts. A great resource for learning Javascript is freeCodeCamp&amp;rsquo;s Javascript Algorithms and Data Structures Certification course
-Lesson 1 Solidity&amp;rsquo;s code is encapsulated in contracts.
-contract: fundamental building block of Ethereum applications - all variables and functions belong to a contract. Starting point of all your projects
-pragma solidity: version of Solidity compiler you wish to use state variables - permanently stored in contract storage</description>
+      <description>CryptoZombies&amp;rsquo;s Website
+ Note: I already have a little bit of programming experience so I will be relating some of the concepts to Javascript/C++ concepts. A great resource for learning Javascript is freeCodeCamp&amp;rsquo;s Javascript Algorithms and Data Structures Certification course
+ Lesson 1 Solidity&amp;rsquo;s code is encapsulated in contracts.
+contract: fundamental building block of Ethereum applications - all variables and functions belong to a contract. Starting point of all your projects</description>
     </item>
     
     <item>

@@ -4,8 +4,12 @@ date: 2021-02-06T11:40:29-05:00
 draft: true
 ShowToc: true
 ---
+[CryptoZombies's Website](https://cryptozombies.io/)
+
+---
 **Note: I already have a little bit of programming experience so I will be relating some of the concepts to Javascript/C++ concepts. A great resource for learning Javascript is freeCodeCamp's Javascript Algorithms and Data Structures Certification course**
 
+---
 ## Lesson 1
 Solidity's code is encapsulated in contracts.  
 **contract:** fundamental building block of Ethereum applications - all variables and functions belong to a contract. Starting point of all your projects  
@@ -66,6 +70,7 @@ contract ZombieFactory {
 }
 ```
 
+---
 ## Lesson 2
 **addresses:** Owned by a specific user, we can use it as a unique ID for ownership (set to the Ethereum address that called the function)  
 **mapping:** Key-value store for storing and looking up date (dictionaries)  
@@ -172,6 +177,7 @@ contract ZombieFeeding is ZombieFactory {
 }
 ```
 
+---
 ## Lesson 3
 After you deploy a contract, it's immutable, meaning it can never be modified or updated again. If there's a flaw in your contract code, there's no way for you to patch it later. You would have to tell your users to start using a different smart contract address that has the fix.
 Because of this, it is often smart to have a function that allows up to change addresses that rely on external dependencies, in case something happens to those contracts in the future. 
