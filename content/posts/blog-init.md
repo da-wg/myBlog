@@ -5,7 +5,7 @@ categories: ["misc"]
 series:
 draft: false
 ---
-Hey there and welcome to my blog! This blog will help document my journey into crypto and trading. Since discovering Bitcoin and crypto 9 months ago, I've spent all of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of: 
+Hey there and welcome to my blog! This blog will help document my journey into crypto and trading. Since discovering Bitcoin and crypto 9 months ago, I've spent majority of my free time away from school work researching about everything in the space. I now feel like I have a good understanding of: 
 - the history and major dates of crypto
 - names and what they do of majority of the Top 100 coins  
 - major areas of innovation (eg. DeFi, NFTs)
@@ -15,6 +15,7 @@ Hey there and welcome to my blog! This blog will help document my journey into c
 However, I noticed that there are still various topics that I'm still confused about. These include: 
 - Technical aspects of defi protocols (eg. how SUSHI fees are generated and distributed, how RUNE is able to do cross-chain swaps vs atomic swaps, ALPHA leveraged lending)
 - NFTs (eg. how they are able to verify ownership, what are the next logical "next steps" for projects in this space)
+- Polkadot (eg. the ecosystem, where it excels vs Ethereum)
 - Insurance (eg. how insurance works in the crypto world)
 - Solidity
 
