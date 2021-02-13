@@ -4,6 +4,7 @@ date: 2021-01-16T21:10:05-05:00
 categories: ["misc"]
 series:
 draft: false
+weight: 1
 ---
 Hey there and welcome to my blog! This blog will help document my journey into the more technical aspects of crypto and trading. Since discovering the world of Bitcoin and crypto 9 months ago, I've spent majority of my free time keeping up with the space. When I wasn't studying, I was busy learning about new projects and "trading" on Uniswap. Today, I feel confident in my understanding of: 
 - the history and major dates of Bitcoin and Ethereum

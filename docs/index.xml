@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Feb 2021 11:40:29 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>blog init/about me</title>
+      <link>/posts/blog-init/</link>
+      <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
+      
+      <guid>/posts/blog-init/</guid>
+      <description>Hey there and welcome to my blog! This blog will help document my journey into the more technical aspects of crypto and trading. Since discovering the world of Bitcoin and crypto 9 months ago, I&amp;rsquo;ve spent majority of my free time keeping up with the space. When I wasn&amp;rsquo;t studying, I was busy learning about new projects and &amp;ldquo;trading&amp;rdquo; on Uniswap. Today, I feel confident in my understanding of:
+ the history and major dates of Bitcoin and Ethereum names of majority of the top 100 coins and what they are areas with the potential for greatest growth and innovation in 2021 and beyond (eg.</description>
+    </item>
+    
+    <item>
       <title>cryptoZombies [solidity]</title>
       <link>/posts/cryptozombies/</link>
       <pubDate>Sat, 06 Feb 2021 11:40:29 -0500</pubDate>
@@ -40,16 +50,6 @@ money market: area of traditional finance that specializes in short term lending
       <guid>/posts/cryptocred/cryptocred/</guid>
       <description>Link to original videos
  #1: Candlestick Charts What is technical analysis:  way to make probabilistic forecasts of future price behaviour  you don&amp;rsquo;t have to be a technical trader, you can use it to look for best risk/reward long entries if you&amp;rsquo;re fundamentally bullish on an asset   can be thought of as a risk management tool  Candlestick Anatomy:  red = closing price below opening price green = closing price above opening price OHLC = Open, High, Low, Close  Side note: lines drawn on a particular time frame are still displayed at different time frames.</description>
-    </item>
-    
-    <item>
-      <title>blog init/about me</title>
-      <link>/posts/blog-init/</link>
-      <pubDate>Sat, 16 Jan 2021 21:10:05 -0500</pubDate>
-      
-      <guid>/posts/blog-init/</guid>
-      <description>Hey there and welcome to my blog! This blog will help document my journey into the more technical aspects of crypto and trading. Since discovering the world of Bitcoin and crypto 9 months ago, I&amp;rsquo;ve spent majority of my free time keeping up with the space. When I wasn&amp;rsquo;t studying, I was busy learning about new projects and &amp;ldquo;trading&amp;rdquo; on Uniswap. Today, I feel confident in my understanding of:
- the history and major dates of Bitcoin and Ethereum names of majority of the top 100 coins and what they are areas with the potential for greatest growth and innovation in 2021 and beyond (eg.</description>
     </item>
     
     <item>
