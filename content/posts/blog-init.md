@@ -20,7 +20,7 @@ However, I realized there are still various topics that I haven't spent as much 
 - Insurance (eg. how insurance works in the crypto world)
 - Solidity
 
-I thought a blog will allow me to document my learning as well as push me to be as thorough as possible when researching these topics. Eventually, this blog will hopefully also act as a "portfolio" of sorts, reflective of the time I've spent in this space, since I want to do a co-op work term in this field.
+Since I learn better when I'm taking notes (it forces me to slow down and absorb the information), I thought a blog will allow me to document my learning as well as push me to be as thorough as possible when researching these topics. Eventually, this blog will hopefully also act as a "portfolio" of sorts, reflective of the time I've spent in this space, since I want to do a co-op work term in this field.
 
 Most of the posts for the next couple of months will simply be me making notes straight from the videos and resources that I'm learning from. However, as time goes on, the goal is to start contributing insightful and critical posts about things that I notice. 
 

@@ -4,6 +4,7 @@ date: 2021-01-31T20:34:27-05:00
 draft: true
 categories: ["crypto"]
 series: ["DeFi"]
+ShowToc: true
 ---
 Sources: [Finematics](https://finematics.com/guide-to-decentralized-finance/)
 
@@ -12,7 +13,7 @@ Sources: [Finematics](https://finematics.com/guide-to-decentralized-finance/)
 View my project specific posts:
 
 ---
-## Lending and Borrowing: 
+## Lending and Borrowing 
 One of the most important aspects of any financial system
 
 **money market**: area of traditional finance that specializes in short term lending and borrowing
@@ -59,7 +60,8 @@ Order-book models in DeFi:
 - there is an incentive for first LP and every LP afterwards to provide equal value of both tokens to prevent an arbitrage opportunity
 - LPs get LP tokens back in proportion to how much they provided to the pool 
 - each trade has a 0.3% fee which gets proportionally distributed to all LP token holders
-- **Automated Market Maker:** mechanism that adjusts price after every trade according to a deterministic algorithm
+- **Automated Market Maker:** mechanism that adjusts price after every trade according to a deterministic algorithm 
+
 Things to research: 
 - Alpha Homora
   - https://defipulse.com/blog/alpha-homora-v2
