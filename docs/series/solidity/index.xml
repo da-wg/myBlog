@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solidity on da.wg</title>
+    <link>/series/solidity/</link>
+    <description>Recent content in solidity on da.wg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Feb 2021 11:40:29 -0500</lastBuildDate><atom:link href="/series/solidity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cryptoZombies [solidity]</title>
+      <link>/posts/cryptozombies/</link>
+      <pubDate>Sat, 06 Feb 2021 11:40:29 -0500</pubDate>
+      
+      <guid>/posts/cryptozombies/</guid>
+      <description>CryptoZombies&amp;rsquo;s Website
+ Note: I already have a little bit of programming experience so I will be relating some of the concepts to Javascript/C++ concepts. A great resource for learning Javascript is freeCodeCamp&amp;rsquo;s Javascript Algorithms and Data Structures Certification course
+ Lesson 1 Solidity&amp;rsquo;s code is encapsulated in contracts.
+contract: fundamental building block of Ethereum applications - all variables and functions belong to a contract. Starting point of all your projects</description>
+    </item>
+    
+  </channel>
+</rss>

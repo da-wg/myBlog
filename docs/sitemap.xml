@@ -9,16 +9,21 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/futures/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
+    <loc>/posts/leverage/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/futures/</loc>
     <lastmod>2021-02-14T15:19:14-05:00</lastmod>
   </url>
   
@@ -28,38 +33,43 @@
   </url>
   
   <url>
-    <loc>/posts/cryptozombies/</loc>
-    <lastmod>2021-02-07T20:33:23-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/crypto/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
+    <loc>/categories/coding/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/series/defi/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/defi/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
+    <loc>/posts/cryptozombies/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
     <loc>/series/</loc>
-    <lastmod>2021-02-14T15:19:14-05:00</lastmod>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/series/cryptocred/</loc>
-    <lastmod>2021-01-30T20:50:20-05:00</lastmod>
+    <loc>/series/solidity/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/crypto/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/defi/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/defi/</loc>
+    <lastmod>2021-03-03T20:06:44-05:00</lastmod>
   </url>
   
   <url>
