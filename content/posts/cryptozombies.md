@@ -2,6 +2,8 @@
 title: "cryptoZombies [solidity]"
 date: 2021-02-06T11:40:29-05:00
 draft: true
+categories: ["coding"]
+series: ["solidity"]
 ShowToc: true
 ---
 [CryptoZombies's Website](https://cryptozombies.io/)

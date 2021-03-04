@@ -1,5 +1,5 @@
 ---
-title: "DeFi"
+title: "Finematics (DeFi)"
 date: 2021-01-31T20:34:27-05:00
 draft: true
 categories: ["crypto"]
@@ -8,7 +8,7 @@ ShowToc: true
 ---
 Sources: [Finematics](https://finematics.com/guide-to-decentralized-finance/)
 
-**Note: I'm already familiar with the basics of DeFi (eg. what it is, key projects, Uniswap, MetaMask) so there won't be any notes after those things. If you wish to start at the beginning, the finematics article is a great start**
+**Note: I'm already familiar with the basics of DeFi (eg. what it is, Uniswap, MetaMask) so there won't be any notes about those topics. Other topics won't be as comprehensive. Refer to the Finematics link if you want to start from the beginning, it's an excellent resource**
 
 View my project specific posts:
 
@@ -60,7 +60,38 @@ Order-book models in DeFi:
 - there is an incentive for first LP and every LP afterwards to provide equal value of both tokens to prevent an arbitrage opportunity
 - LPs get LP tokens back in proportion to how much they provided to the pool 
 - each trade has a 0.3% fee which gets proportionally distributed to all LP token holders
-- **Automated Market Maker:** mechanism that adjusts price after every trade according to a deterministic algorithm 
+- **Deterministic Algorithm/Automated Market Maker:** mechanism that adjusts price after every trade according to a deterministic algorithm 
+
+Price is determined by ratio of the tokens. Price impact (slippage) determined by two factors: 
+- size of the trade
+- how much liquidity is in the pool (why some protocols like BAL started incentivizing LPs by giving them extra tokens. This is called **liquidity mining**)
+
+Uniswap: Constant Product Market Maker
+`calculation: x * y = k`
+- product of quantities of two tokens (x and y) remains the same (k) 
+- in this method, Uniswap can provide liquidity no matter how large the trade because the algorithm asymptotically increases the price as quantity demanded increases 
+
+Balancer: as many as 8 tokens in a pool
+
+Curve: realized AMM doesn't work well for assets that should have similar prices (eg. stablecoins and different versions of synthetics like SETH and WETH) 
+- offers lower fees and lower slippage when exchanging these tokens
+
+---
+## Impermanent Loss
+Temporary loss of funds when providing liquidity. Difference between holding asset and providing liquidity  
+
+Observed when LP has to provide both sides of the pool in correct ratio and rely on arbitrage to ensure the prices reflect real world prices 
+
+**Refer** to example in video, very clear
+
+What are the incentives for LPs? 
+- Fees (0.3% on every trade for Uniswap). In order to be profitable, impermanent loss < collected fees
+- **liquidity mining:** rewarding LPs with extra tokens  
+
+Pools other than Uniswap:
+- Curve: pools have very little impermanent loss because they only hold tokens that should be very similar or the same in value with the other. In general, stable pools will attract more liquidity
+- Balancer: arbitrary weights in pool. LPs can have high exposure to a certain asset by providing much higher weights. Reduces impermanent loss
+- Bancor V2: adjust weights automatically based on external prices feeds coming from price oracles  
 
 Things to research: 
 - Alpha Homora
